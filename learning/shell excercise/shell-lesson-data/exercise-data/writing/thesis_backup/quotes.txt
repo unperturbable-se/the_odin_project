@@ -1,0 +1,9 @@
+//yo how's ya doing jocks
+#include <iostream>
+using namespace std;
+
+int main(void)
+{
+cout<<"\nhello world";
+return;
+}
